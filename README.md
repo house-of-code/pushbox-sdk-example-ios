@@ -9,3 +9,5 @@ Download the source and run the following command:
 pod install
 ```
 to fetch the PushBoxSDK
+
+Replace **\<PUT API_KEY HERE>** and **\<PUT API_SECRET HERE>** your with your actucal api key and secret in the *AppDelegate.m* source file
